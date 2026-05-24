@@ -1,0 +1,10 @@
+.carousel-item img {
+  height: 450px;
+  object-fit: cover;
+}
+.avatar-checkin {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+}
